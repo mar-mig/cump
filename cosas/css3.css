@@ -1,0 +1,15 @@
+body{
+    background-image: url("niger.jpg");
+    text-align: center;
+}
+
+#all{
+    margin: 150px 0px 0px 400px;
+    background-color: teal;
+    border: 3px solid black;
+    width: 550px;
+    height: 350px;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
